@@ -106,7 +106,7 @@ Once initialisation completes, `scan_controller` takes over and continuously str
 - [GHDL](https://github.com/ghdl/ghdl) ≥ 3.0 (simulation)
 - [GTKWave](https://gtkwave.sourceforge.net/) (optional, waveform viewer)
 - [Vivado](https://www.xilinx.com/products/design-tools/vivado.html) (synthesis and programming)
-- Python 3.10+ with [Pillow](https://python-pillow.org/) (`pip install pillow`) — only for image conversion
+- Python 3.10+ with [Pillow](https://pillowpython.com/) (`pip install pillow`) — only for image conversion
 
 ### Simulate
 
